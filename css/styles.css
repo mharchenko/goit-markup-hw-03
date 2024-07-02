@@ -311,7 +311,7 @@ li {
 }
 
 .our-team {
-  padding: 32px 0 0 0;
+  padding: 32px 0;
 }
 
 .team-foto {
@@ -322,7 +322,7 @@ li {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  padding-top: 32px;
+  /* padding-top: 32px; */
   margin-bottom: 8px;
 }
 
